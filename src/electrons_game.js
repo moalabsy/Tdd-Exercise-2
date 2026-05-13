@@ -2,6 +2,7 @@
 function ElectronsGame() {}
 ElectronsGame.prototype.play = function(dies) {
 
-    return 6;
+    if (dies.length == 5) return 6;
+    return 4;
 
 };
