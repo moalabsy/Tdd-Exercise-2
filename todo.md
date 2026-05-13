@@ -14,3 +14,4 @@ Here are some input/output pairs for you to wrap your mind around:
 [ 2, 2, 3, 3 ] -> 4
 [ 6, 6, 4, 4, 1, 3 ] -> 2
 [ 3, 5, 3, 5, 4, 2 ] -> 12
+[0, 2, 6, 4, 2, 1] -> 0
