@@ -4,7 +4,7 @@ describe('Electrons game', function() {
 	});
 
 	// TODO TC_1
-	it('should return ', function() {
-		expect(game.add('')).toEqual(0);
+	it('should return 6 for [ 1, 2, 3, 4, 5 ] ', function() {
+		expect(game.play([ 1, 2, 3, 4, 5 ])).toEqual(6);
 	});
 });
